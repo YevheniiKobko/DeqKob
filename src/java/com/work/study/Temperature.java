@@ -8,4 +8,3 @@ public class Temperature {
             System.out.println(a + " degree Fahrenheit is equal to " + ((a - 32) * 5/9) + " in Celsius");
         }
     }
-
